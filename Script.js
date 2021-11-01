@@ -1,3 +1,4 @@
+const projectName = 'product-landing-page';
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
